@@ -1,6 +1,6 @@
 ![Students of Chittagong University of Engineering and Technology](https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/72270002_3477884492438531_3708089680340713472_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHMbhccFCV-DJ0D-5FUt9CfP_HRK3vOyuo_8dEre87K6pdwrgDrmbrboOXTs0Kf-wbsQur8FR7e1p5_JqpwWSuz&_nc_ohc=mmPNUbm_a2MAX_-k1Pi&_nc_ht=scontent.fdac31-1.fna&oh=00_AfAGj0PUhsJiLTFMyMHc6Mg4wH_QxOzBO_cc-bhkuIWpcA&oe=63F9E56B)
-### Hi there 👋, Im Tanvir Hasan
-#### Syudents of Chittagong University of Engineering and Technology
+#### Hi there 👋, Im Tanvir Hasan
+#### Students of Chittagong University of Engineering and Technology
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -9,10 +9,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ✔ I’m looking to collaborate on Github <br>
 
 
-###Skills:
+###Skills:<br>
 ✔ C/C++<br>
 ✔ JAVA<br>
-✔ Python
+✔ Python<br>
 ✔ JS /VUE JS<br>
 ✔ HTML / CSS<br>
 
@@ -23,7 +23,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mississippii)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mississippii)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mississippii&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mississippii&theme=gotham&show_icons=true&count_private=true)  
 
