@@ -26,11 +26,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mississippii)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mississippii&show_icons=true&count_private=true)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mississippiia&theme=gotham&show_icons=true)
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mississippii)   -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mississippii)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mississippii)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mississippii)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mississippiia&theme=gotham&show_icons=true)
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=mississippii)   -->
 
 ![Profile views](https://gpvc.arturio.dev/mississippii)  
