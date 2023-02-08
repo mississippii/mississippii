@@ -1,4 +1,4 @@
-![Students of Chittagong University of Engineering and Technology](https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/72270002_3477884492438531_3708089680340713472_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHMbhccFCV-DJ0D-5FUt9CfP_HRK3vOyuo_8dEre87K6pdwrgDrmbrboOXTs0Kf-wbsQur8FR7e1p5_JqpwWSuz&_nc_ohc=mmPNUbm_a2MAX_-k1Pi&_nc_ht=scontent.fdac31-1.fna&oh=00_AfAGj0PUhsJiLTFMyMHc6Mg4wH_QxOzBO_cc-bhkuIWpcA&oe=63F9E56B)
+![Students of Chittagong University of Engineering and Technology](https://m.media-amazon.com/images/I/61EtSQ7KqqL._AC_SX679_.jpg)
 #### Hi there 👋, Im Tanvir Hasan
 #### Students of Chittagong University of Engineering and Technology
 
