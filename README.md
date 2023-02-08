@@ -1,4 +1,4 @@
-![Students of Chittagong University of Engineering and Technology](https://m.media-amazon.com/images/I/61EtSQ7KqqL._AC_SX679_.jpg)
+![Students of Chittagong University of Engineering and Technology]
 #### Hi there 👋, Im Tanvir Hasan
 #### Students of Chittagong University of Engineering and Technology
 
