@@ -10,18 +10,19 @@ I am a Software Engineer working with Java Spring Boot, C#, .NET, RDBMS, Docker,
 
 ### 🛠️ Skills
 - **Languages:**  
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-  ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
-  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
-- **Backend Development:**  
+  ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)
+  ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)
+  ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
+  ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)
+  
+**Frameworks:**  
   ![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)
   ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)
+
+- **Tools:**  
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
   ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)
-  ![RDBMS](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logo=mysql)
 
 - **Frontend Development:**  
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
