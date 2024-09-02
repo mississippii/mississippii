@@ -9,34 +9,37 @@ I am a Software Engineer working with Java Spring Boot, C#, .NET, RDBMS, Docker,
 - 🤝 I’m looking to collaborate on **Open Source Projects**  
 
 ### 🛠️ Skills
+
 - **Languages:**  
-  ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)
-  ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)
-  ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
-  ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)
-  
+  ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)  
+  ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)  
+  ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)  
+  ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)  
+
 - **Frameworks:**  
-  ![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)
-  ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)
+  ![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)  
+  ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)  
 
 - **Tools:**  
-  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-  ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)
-  ![MySQL](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logo=mysql)
+  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
+  ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)  
+  ![MySQL](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logo=mysql)  
 
 - **Frontend Development:**  
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)  
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)  
 
 ### 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/mississippii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasantanvir/)
-[![Facebook](https://img.shields.io/badge/Facebook-05122A?style=flat&logo=facebook)](https://www.facebook.com/godfather.jan.14)
-[![Codeforces](https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces)](https://codeforces.com/profile/Veer)
-[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/__Veer/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/mississippii)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasantanvir/)  
+[![Facebook](https://img.shields.io/badge/Facebook-05122A?style=flat&logo=facebook)](https://www.facebook.com/godfather.jan.14)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces)](https://codeforces.com/profile/Veer)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/__Veer/)  
 [![LightOJ](https://img.shields.io/badge/LightOJ-05122A?style=flat&logo=lightoj)](https://lightoj.com/user/yourusername)
+
 
 
 ### 📊 GitHub Stats
