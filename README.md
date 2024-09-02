@@ -37,12 +37,14 @@ I am a Software Engineer working with Java Spring Boot, C#, .NET, RDBMS, Docker,
 [![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/__Veer/)
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mississippii&layout=compact&theme=gotham)
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mississippii&layout=compact&theme=gotham&v=2)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mississippii&theme=gotham&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mississippii&theme=gotham&show_icons=true&count_private=true&v=2)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mississippii&theme=gotham)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mississippii&theme=gotham)
+
 
 ![Profile Views](https://gpvc.arturio.dev/mississippii)
