@@ -14,7 +14,7 @@ I am a Software Engineer working with Java Spring Boot, C#, .NET, RDBMS, Docker,
   ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)  
   ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)  
   ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)  
-  ![C#](https://img.shields.io/badge/C#-05122A?style=flat&logo=c-sharp)  
+  ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)
 
 - **Frameworks:**  
   ![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)  
