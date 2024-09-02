@@ -1,31 +1,40 @@
+# Hi there 👋, I'm Tanvir Hasan
 
-#### Hi there 👋, Im Tanvir Hasan
-#### Students of Chittagong University of Engineering and Technology
+### Student at Chittagong University of Engineering and Technology
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I created this project for fun—it allows you to generate nice and simple GitHub README files that you can use in your profile.
 
-✔ I’m currently working on Chittagong University of Engineering and Technology <br>
-✔ I’m currently learning JavasScript <br>
-✔ I’m looking to collaborate on Github <br>
+- 🔭 I’m currently working on projects at **Chittagong University of Engineering and Technology**  
+- 🌱 I’m currently learning **JavaScript**  
+- 🤝 I’m looking to collaborate on **GitHub**  
 
+### 🛠️ Skills
+- **Languages:**  
+  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+  
+- **Frontend Development:**  
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 
-<b>Skills:<b><br>
-✔ C/C++<br>
-✔ JAVA<br>
-✔ Python<br>
-✔ JS /VUE JS<br>
-✔ HTML / CSS<br>
+### 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/mississippii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasantanvir/)
+[![Facebook](https://img.shields.io/badge/Facebook-05122A?style=flat&logo=facebook)](https://www.facebook.com/godfather.jan.14)
+[![Codeforces](https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces)](https://codeforces.com/profile/Veer)
+[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/__Veer/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mississippii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasantanvir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/godfather.jan.14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Veer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/__Veer/)  
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mississippii&layout=compact&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mississippii&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mississippii&theme=gotham&show_icons=true&count_private=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mississippii&theme=gotham&show_icons=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=mississippii&theme=gotham)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mississippii)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mississippii&theme=gotham)
 
-![GitHub metrics](https://metrics.lecoq.io/mississippii)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mississippii)  
-
-![Profile views](https://gpvc.arturio.dev/mississippii)  
+![Profile Views](https://gpvc.arturio.dev/mississippii)
