@@ -1,25 +1,33 @@
 # Hi there 👋, I'm Tanvir Hasan
 
-### Student at Chittagong University of Engineering and Technology
+### Software Engineer
 
-I created this project for fun—it allows you to generate nice and simple GitHub README files that you can use in your profile.
+I am a Software Engineer working with Java Spring Boot, C#, .NET, RDBMS, Docker, Kafka, and more. I enjoy building backend systems and working with both frontend and backend technologies.
 
-- 🔭 I’m currently working on projects at **Chittagong University of Engineering and Technology**  
-- 🌱 I’m currently learning **JavaScript**  
-- 🤝 I’m looking to collaborate on **GitHub**  
+- 🔭 I’m currently working on projects involving **Java Spring Boot, .NET, Docker, and Kafka**  
+- 🌱 I’m currently deepening my knowledge in **microservices architecture and distributed systems**  
+- 🤝 I’m looking to collaborate on **Open Source Projects**  
 
 ### 🛠️ Skills
 - **Languages:**  
-  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+  ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-  
+
+- **Backend Development:**  
+  ![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)
+  ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)
+  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+  ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)
+  ![RDBMS](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logo=mysql)
+
 - **Frontend Development:**  
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 
 ### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/mississippii)
