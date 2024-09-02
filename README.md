@@ -23,7 +23,7 @@ I am a Software Engineer working with Java Spring Boot, C#, .NET, RDBMS, Docker,
 - **Tools:**  
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
   ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)  
-  ![MySQL](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logo=mysql)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  
 
 - **Frontend Development:**  
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
