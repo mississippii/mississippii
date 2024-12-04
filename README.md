@@ -37,7 +37,7 @@ I am a Software Engineer working with Java Spring Boot, C#, .NET, RDBMS, Docker,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasantanvir/)  
 [![Facebook](https://img.shields.io/badge/Facebook-05122A?style=flat&logo=facebook)](https://www.facebook.com/godfather.jan.14)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces)](https://codeforces.com/profile/Veer)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/__Veer/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/u/Veer__/)  
 [![LightOJ](https://img.shields.io/badge/LightOJ-05122A?style=flat&logo=lightoj)](https://lightoj.com/user/u1604090)
 
 
